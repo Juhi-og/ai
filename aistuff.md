@@ -13,7 +13,7 @@
 - AI Data Retention **OFF**
 - ![image](https://github.com/user-attachments/assets/6e062ab3-3a93-493d-b60c-f933fa30812a)
 
-# ChaGTP Mobilephone app
+# ChatGTP Mobilephone app
 - Use it as a diary and add new things you have learned
 - Talk with it to get used to voice commands and 
 - Go to personalization and data control
