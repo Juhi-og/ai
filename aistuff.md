@@ -1,4 +1,4 @@
-Remember to take care of your privacy.
+## First an foremost! Remember to take care of your privacy!
 # Must settings to check for ChatGTP
 - Got to settings https://chatgpt.com/#settings
 - Data control **OFF**
