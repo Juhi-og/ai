@@ -1,4 +1,10 @@
 # First an foremost! Remember to take care of your privacy!
+## Useful sources for daily usage
+- Note: Keep in mind the url:s can change.
+- https://www.perplexity.ai/
+- https://chatgpt.com/
+
+
 ## Privacy settings to check for ChatGTP
 - Got to settings https://chatgpt.com/#settings
 - Data control **OFF**
