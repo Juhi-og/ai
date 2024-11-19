@@ -1,5 +1,5 @@
-# rule of thumb
-- While developing AI tools. Keep in mind the Ethical issues that may rise.
+# Development rule of thumb
+- While developing AI tools alwaysw keep in mind the Ethical issues that may rise.
 
 # Voice based applications
 - At the moment Alexa is the easiest platform to make voice based applications.
