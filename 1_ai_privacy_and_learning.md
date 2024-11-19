@@ -20,7 +20,8 @@
 - ![image](https://github.com/user-attachments/assets/6e062ab3-3a93-493d-b60c-f933fa30812a)
 
 ## Privacy settings to check in Microsoft tools
-- Microsoft is scraping what you type in Word with automatically turned on default option. To change this...
+- Microsoft is scraping what you type in Word with **automatically turned on default** option.
+- To change this...
 - Open File menu
 - Choose Options
 - Choose Trust center
@@ -28,7 +29,7 @@
 - Choose Privacy Options
 - Choose Privacy Settings...
 - Under Connected experiences
-- Untap [ ] Turn on experiences that analyze your content
+- **Untap** [ ] Turn on experiences that analyze your content
 
 ## ChatGTP Mobilephone app
 - Use it as a diary and add new things you have learned
@@ -47,9 +48,14 @@
 - Elon Musk spends 3 hours a day learning new things about AI.
 - You should spend at least one hwour a week to see how AI is evolving.
 
+## Links
+- Kai-Fu Lee, a venture capitalist and CEO of Sinovation Ventures - https://aisuperpowers.com/
+
 
 # References
 - I am writing this material to understand and implement it better.
 - Information is based on Artificial Intelligence in Modern Business course of Haaga-Helia, taught by Lasse Rouhiainen as part of my MBA studies.
 - There is a Haaga-Helia Online course at https://www.haaga-helia.fi/en/business/artificial-intelligence-modern-business
-- Recommendation to read: Artificial Intelligence by Lasse Rouhiainen 2018 https://www.adlibris.com/fi/kirja/artificial-intelligence-9781982048808
+## Recommendations to read
+- Artificial Intelligence, Lasse Rouhiainen, 2018 https://www.adlibris.com/fi/kirja/artificial-intelligence-9781982048808
+- CHATGPT – 101 Things You Must Know Today About ChatGPT and Generative AI, Lasse Rouhiainen, 2018 https://lasserouhiainen.com/chatgpt-book-boosting-business-success-with-ai/
