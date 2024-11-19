@@ -24,32 +24,26 @@
 - Under Connected experiences
 - Untap [ ] Turn on experiences that analyze your content
 
-# Usage, learning and studying
-- Elon Musk spends 3 hours a day learning new things about AI.
-- You should spend at least one hwour a week to see how AI is evolving.
-
-
-# ChatGTP Mobilephone app
+## ChatGTP Mobilephone app
 - Use it as a diary and add new things you have learned
 - Talk with it to get used to voice commands and 
 - Go to personalization and data control
 - Check the data control **OFF**
 
-## Using ChatGTP
-- This was level 1 answer. Write a more detailed level 2 answer.
-# Personal assistant brainstorming prompts
-- From now what are the main 3 things to concentrate now.
-- Don't answer yet, but rather ask couple questions to understand better what I mean.
-- Now here is what happened today please add this to my memory.
-
-# Design tools
-- https://gamma.app/
-
-# Programming tools
-- https://bolt.new/
-- Design for example a program or webpage app with prompt
+## When thinking of using a new AI tool
+1. Check the company policy on AI usage
+2. Discuss with the AI department or IT
+3. Follow the instrcutions given
+4. Even if using the AI for your personal use only, be mindful how and what information is gathered and how it is used
 
 
-- Reference: Writing this material to understand and implement it better. Information is based on Artificial Intelligence in Modern Business course of Haaga-Helia, taught by Lasse Rouhiainen.
+# Usage, learning and studying
+- Elon Musk spends 3 hours a day learning new things about AI.
+- You should spend at least one hwour a week to see how AI is evolving.
+
+
+# References
+- I am writing this material to understand and implement it better.
+- Information is based on Artificial Intelligence in Modern Business course of Haaga-Helia, taught by Lasse Rouhiainen as part of my MBA studies.
 - There is a Haaga-Helia Online course at https://www.haaga-helia.fi/en/business/artificial-intelligence-modern-business
 - Recommendation to read: Artificial Intelligence by Lasse Rouhiainen 2018 https://www.adlibris.com/fi/kirja/artificial-intelligence-9781982048808
