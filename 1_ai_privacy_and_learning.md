@@ -53,9 +53,9 @@
 
 
 # References
-- I am writing this material to understand and implement it better.
+- I am writing this material to understand, develop and implement the things I have learned better.
 - Information is based on Artificial Intelligence in Modern Business course of Haaga-Helia, taught by Lasse Rouhiainen as part of my MBA studies.
-- There is a Haaga-Helia Online course at https://www.haaga-helia.fi/en/business/artificial-intelligence-modern-business
+- To learn the basics, if you are not a student there is a Haaga-Helia Online course option availiable at https://www.haaga-helia.fi/en/business/artificial-intelligence-modern-business
 ## Recommendations to read
 - Artificial Intelligence, Lasse Rouhiainen, 2018 https://www.adlibris.com/fi/kirja/artificial-intelligence-9781982048808
 - CHATGPT – 101 Things You Must Know Today About ChatGPT and Generative AI, Lasse Rouhiainen, 2018 https://lasserouhiainen.com/chatgpt-book-boosting-business-success-with-ai/
