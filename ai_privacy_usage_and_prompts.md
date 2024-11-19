@@ -24,6 +24,10 @@
 - Under Connected experiences
 - Untap [ ] Turn on experiences that analyze your content
 
+# Usage, learning and studying
+- Elon Musk spends 3 hours a day learning new things about AI.
+- You should spend at least one hwour a week to see how AI is evolving.
+
 
 # ChatGTP Mobilephone app
 - Use it as a diary and add new things you have learned
@@ -45,3 +49,6 @@
 - https://bolt.new/
 - Design for example a program or webpage app with prompt
 
+
+- Reference: Writing this material to understand and implement it better. Source is based on Artificial Intelligence in Modern Business course of Haaga-Helia, taught by Lasse Rouhiainen.
+- There is a Haaga-Helia Online course at https://www.haaga-helia.fi/en/business/artificial-intelligence-modern-business
