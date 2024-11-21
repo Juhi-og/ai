@@ -45,7 +45,6 @@
 - Make a navigation better
 
 
-
 # References
 - I am writing this material to understand, develop and implement the things I have learned better.
 - Information is based on Artificial Intelligence in Modern Business course of Haaga-Helia, taught by Lasse Rouhiainen as part of my MBA studies.
