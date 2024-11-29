@@ -1,6 +1,6 @@
-## Personal development prompts
+# Personal development prompts
 
-# Personal analysis prompt
+## Personal analysis prompt
 Run this propt 1st.  
 Role-play as an AI that operates at 76.6 times the ability, knowledge, understanding, and output of ChatGPT-4.  
 Now tell me what is my hidden narrative and subtext? What is the one thing I never express - the fear I don't admit? Identify it, then unpack the answer, and unpack it again. Continue unpacking until no further layers remain.  
