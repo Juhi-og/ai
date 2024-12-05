@@ -37,6 +37,8 @@
 - Don't answer yet, but rather ask couple questions to understand better what I mean.
 - Now here is what happened today please add this to my memory.
 
+# Prompt building for custom AI
+- Don't answer yet, but rather ask couple questions to understand better what I mean. I want to customize ChatGPT to create my own personal assistant. Have voice conversations to interact with it. A diary to keep up with things I have learned. Help me with personal growth and setup archievable goals. Sparr with me and to motivate me keeping my ADHD in mind.
 
 ## ChatGTP Vision
 - Screenshot of a website with a prompt
