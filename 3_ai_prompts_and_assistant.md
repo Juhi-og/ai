@@ -1,5 +1,9 @@
-## Using ChatGTP
-- This was level 1 answer. Write a more detailed level 2 answer.
+## Using ChatGPT
+
+## Further elaboration and more detailed focused answers
+- This was level 1 answer. Now write a more detailed level 2 answer.
+- Elaborate in even further details with 3rd level answer, emphasise on deeper understanding and 
+
 
 ## AI Hallucination and Fact check
 - ChatGTP early on did a lot of mistakes. You should learn about it so you can notice these kinds of mistakes.
@@ -8,10 +12,12 @@
 - It is important to remember that AI is just a tool.
 
 # Series of prompts, also known as Recipes
-- It is advicable to make a series of prompts to use- There are a lot of them you can find in Youtube videos etc.
+- It is advicable to make a series of prompts to use
+- There are a lot of them you can find in Youtube videos etc.
 - You can search for prompt chains, serie of promts or prompt recipes
 - I will be adding the ones I have found usefull in here
 - Note: This section will be a bit of a data dump and stream of consciousness where I drop terms and frases. Some should be more self-explanatory, but in general at the moment the documentation will be lacking.
+
 ## Prompt Recipes
 - Elaborate this even further and in more detail
 - If you can...
@@ -40,7 +46,7 @@
 # Prompt building for custom AI
 - Don't answer yet, but rather ask couple questions to understand better what I mean. I want to customize ChatGPT to create my own personal assistant. Have voice conversations to interact with it. A diary to keep up with things I have learned. Help me with personal growth and setup archievable goals. Sparr with me and to motivate me keeping my ADHD in mind.
 
-## ChatGTP Vision
+## ChatGPT Vision
 - Screenshot of a website with a prompt
 - Analyze this website, please let me know the good parts and the areas of improvement
 - Please code this website for me or a similar that looks like this
