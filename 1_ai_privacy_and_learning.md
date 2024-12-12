@@ -5,7 +5,7 @@
 - https://chatgpt.com/
 
 
-## Privacy settings to check for ChatGTP
+## Privacy settings to check for ChatGPT
 - Got to settings https://chatgpt.com/#settings
 - Data control **OFF**
 - ![image](https://github.com/user-attachments/assets/d0810914-846f-4796-8e48-25041625b72a)
