@@ -35,6 +35,42 @@
 # Prompts to do the work for you
 - coming up
 
+# Prompt Template for Detailed Use Case Analysis (Academic Style)
+Role and Context:
+
+"Please act as a researcher and academic writing assistant. I am working on an academic research assignment and need detailed analysis on the implementation of [technology/topic, e.g., Kubernetes] in specific companies. I'll provide you a list of sources. Using only these sources, provide detailed answers structured in the following way."
+
+## Task Instructions:
+Using only the provided sources:
+
+1. Identify and clearly state the implementation use cases for each of the listed companies, structured separately for each organization.
+2. For each organization, answer clearly:
+- What was the use case?
+(Clearly state the business or technical context/problem addressed.)
+- How was the technology implemented?
+(Explain clearly the process or method of implementation, including details on previous solutions or alternative technologies considered if available.)
+- Why was the technology chosen?
+(Provide clear, concise reasons why the company selected this technology, emphasizing the expected benefits, improvements, or measurable impacts.)
+3. Provide specific numerical values or concrete examples whenever available to measure impacts, highlight improvements, or indicate the scale of the issue solved.
+4. Format your response using a clear, structured academic style:
+- Clearly defined headings and subheadings.
+- Logical progression from "What" → "How" → "Why".
+- Essay-style paragraphs for clarity and readability.
+- Practical, concrete examples.
+- Analytical yet concise language.
+5. Finally, provide a concise summary comparing the implementation decisions across the organizations analyzed, highlighting common reasons for selection and notable differences based on industry or organizational context.
+
+## Example (Share your own list of sources like below):
+- Example Source List (Provide your own):
+- Author, Year. Title of source. Publisher. Available at: URL. Accessed: Date.
+- (Continue the source list as required.)
+
+## How to use:
+- Copy and customize the prompt above with your specific topic and list of sources.
+- Provide this prompt clearly to your AI assistant (ChatGPT).
+- Receive structured, academic-style analysis and documentation consistently.
+
+
 
 # References
 - I am writing this material to understand, develop and implement the things I have learned better.
