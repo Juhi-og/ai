@@ -39,7 +39,7 @@
 - coming up
 
 
-# 1 Prompt Template for Detailed Use Case Analysis (Academic Style)
+# 1. Prompt Template for Detailed Use Case Analysis (Academic Style)
 - Role and Context:
 - "Please act as a researcher and academic writing assistant. I am working on an academic research assignment and need detailed analysis on the implementation of [technology/topic, e.g., Kubernetes] in specific companies. I'll provide you a list of sources. Using only these sources, provide detailed answers structured in the following way."
 
@@ -74,7 +74,7 @@ Using only the provided sources:
 - Receive structured, academic-style analysis and documentation consistently.
 
 
-# 2 All-in-One Prompt for Generating Personalized Content
+# 2. All-in-One Prompt for Generating Personalized Content
 - Prompt (copy everything under this and paste it to ChatGTP):
 - I need to create a professional content piece for a school or work project, such as a social media post, blog article, or strategic report. The final text should reflect my unique writing style and integrate key insights from reference materials.
 - To ensure the best result, I will go through the following steps.
