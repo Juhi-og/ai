@@ -75,6 +75,7 @@ Using only the provided sources:
 
 
 # 2. All-in-One Prompt for Generating Personalized Content
+- Here’s a comprehensive prompt that guides the user step by step through the process of generating personalized content while ensuring all necessary inputs are gathered dynamically. It works as a single prompt chain, where the AI responds with clarifying questions based on user input.
 - Prompt (copy everything under this and paste it to ChatGTP):
 - I need to create a professional content piece for a school or work project, such as a social media post, blog article, or strategic report. The final text should reflect my unique writing style and integrate key insights from reference materials.
 - To ensure the best result, I will go through the following steps.
