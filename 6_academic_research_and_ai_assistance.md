@@ -9,13 +9,14 @@
 - Use the name of the journal when searching
 
 ## How to check the quality of the article quickly
-1. Read the heading. Main thing is summed in the title
-2. Read the Abstract
-- Decide if you want to read further.
-3. Check the end
+1. Read the heading
+- Main thing is summed in the title
+3. Read the Abstract
+- Then decide if you want to read further.
+4. Check the end
 - For example conclusions
 - After that results or evaluations
-4. If it is what you were looking for. Read it
+5. If it is what you were looking for. Read it!
 - If there are some interesting results and conclusions it should be interesting to read
 
 ## Research articles like a pro
@@ -38,12 +39,11 @@
 - How to automate the research with AI and get good results?
 - Using research AI tools like Perplexity can be more helpful for now
 
-- Prompt editing
+## Prompt editing
 - Be an academic research specialist and educator with decades of experience in [Field].
 - Use only academic resources found in https://scholar.google.com/
-- Find peer-reviewed surveys or articles
-- Preferable published within last 2 years
-- Give me a summary with Heading, Abstract, Conclusions and link to pdf file.
+- Find review surveys or articles, preferable published within last 2 years.
+- Please give me a list that has a summary with Heading, Abstract, Conclusions and dircet link to pdf file.
 
 
 # 1. Prompt Template for Detailed Use Case Analysis (Academic Style)
