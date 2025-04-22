@@ -34,9 +34,16 @@
 - Look for framework and summary pictures within the reviews as they give you a bigger picture
 
 
-# Prompts to do the work for you (Automated research)
+# Prompts to do the work for you (AI research assistant) - working on this / under construction
 - How to automate the research with AI and get good results?
-- coming up
+- Using research AI tools like Perplexity can be more helpful for now
+
+- Prompt editing
+- Be an academic research specialist and educator with decades of experience in [Field].
+- Use only academic resources found in https://scholar.google.com/
+- Find peer-reviewed surveys or articles
+- Preferable published within last 2 years
+- Give me a summary with Heading, Abstract, Conclusions and link to pdf file.
 
 
 # 1. Prompt Template for Detailed Use Case Analysis (Academic Style)
